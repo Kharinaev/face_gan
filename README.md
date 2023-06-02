@@ -1,4 +1,4 @@
-# face_gan
+# Face GAN
 
 To be arranged...
 
