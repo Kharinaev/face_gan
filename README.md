@@ -29,6 +29,15 @@ The [Flickr-Faces](https://github.com/NVlabs/ffhq-dataset) dataset (resized to [
 # Work examples
 All wandb experiment logs available [here](https://wandb.ai/kharinaev/face_gan)
 
+Training process GIF
+![alt text](examples/training_process.gif)
+
+1D faces smoothing
+![alt text](examples/smooth_1d.png)
+
+2D faces smoothing
+![alt text](examples/smooth_2d.png)
+
 # To do
 - reduce dataset diversity using clusterisation methods to increase generation accuracy 
   - pretrained CNNs with no head for extracting usefull features/embeddings
